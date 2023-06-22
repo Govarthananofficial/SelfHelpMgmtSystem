@@ -13,7 +13,7 @@ import { FaHome } from 'react-icons/fa';
 import { FaUser } from 'react-icons/fa';
 import { FaCommentDots } from 'react-icons/fa';
 import { FaComments } from 'react-icons/fa';
-import { FaUsers } from 'react-icons/fa';
+import { FaUsers } from 'react-icons/fa'
 import { BsFillCalendarEventFill } from 'react-icons/bs';
 import { HiCurrencyRupee } from 'react-icons/hi';
 import { FaUserPlus } from 'react-icons/fa';
