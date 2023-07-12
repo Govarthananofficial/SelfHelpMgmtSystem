@@ -16,7 +16,7 @@
 
 .header
 {
-    width:1225px;
+    width:1355px;
     height:20px;
     border:1px solid #6c60f3;
     background-color: #6c60f3;
@@ -42,7 +42,7 @@
    font-size: 20px;
    font-weight: bold;
    width:210px;
-   height:577px;
+   height:643px;
    border-radius:5px #6c60f3;
    background-color: #6c60f3;
    
@@ -61,12 +61,12 @@ a {
     margin-left:212px; 
 }
 .head{
-    width:1095px;
+    width:1225px;
     height:75px;
     background-color: #d4d0f8;
     border:1px solid #d4d0f8;
     margin-left: -2px;
-    margin-top: 74px;
+    margin-top: 9px;
 }
 #head
 {
