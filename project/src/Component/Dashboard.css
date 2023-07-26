@@ -12,7 +12,13 @@
     
    
 }
-
+.dash{
+    width:1000px;
+    height:575px;
+    border:1px solid black;
+    margin-top: -620px;
+    margin-left: 260px;
+}
 
 .header
 {

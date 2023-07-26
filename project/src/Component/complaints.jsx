@@ -1,16 +1,16 @@
 import React from "react";
 import {  Outlet,Link } from 'react-router-dom';
 import Searchbar from "./Searchbar";
-function User()
+function Complaints()
 {
 
 return(
 <nav>
 <div class="user">
 <div class="head">
-<Link id="head" to="/complaints/complaintslist">Complaints</Link>
+<Link id="head" to="/dashboard/complaints/complaintslist">Complaints</Link>
 <div id="Linked">
-<Link id="linked" to="/complaints/complaintsform" >+ Add New Complaints</Link>
+<Link id="linked" to="/dashboard/complaints/complaintsform" >+ Add New Complaints</Link>
 </div>
 <Searchbar/>
 <Outlet />
@@ -21,4 +21,4 @@ return(
 );
 
 }
-export default User;
+export default Complaints;

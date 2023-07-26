@@ -1,0 +1,97 @@
+*
+ {
+    margin:0;
+    padding: 0;
+    text-decoration: none;
+ }
+ #Container
+ {
+    width:100%;
+    height:789px;
+    border:1px solid gray;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    background-color:#ffffff;
+   
+    
+
+}
+#form-Control
+{
+    width:400px;
+    height:370px;
+    padding: 40px;
+    background-color:#ffffff;
+    box-shadow: 0 7px 15px 0 rgba(0, 0, 0, .13), 0 1px 4px 0 rgba(0, 0, 0, .11);
+    
+    
+}
+#form-control
+{
+    width:400px;
+    height:300px;
+    padding: 40px;
+    background-color:#ffffff;
+    box-shadow: 0 7px 15px 0 rgba(0, 0, 0, .13), 0 1px 4px 0 rgba(0, 0, 0, .11);
+    
+    
+}
+#username
+{
+width:380px;
+height:28px;
+border:1px solid gray;
+border-radius:3px;
+display: block;
+
+
+}
+#word
+{
+    width:380px;
+    height:28px;
+    border:1px solid gray;
+    border-radius:3px;
+  margin-left: 0px;
+
+    }  
+    #confirm
+{
+    width:380px;
+    height:28px;
+    border:1px solid gray;
+    border-radius:3px;
+  margin-left: 0px;
+
+    }  
+    #submit
+    {
+    width:380px;
+    height:35px;
+    border:1px solid #6c60f3;
+    border-radius:3px;
+    display: block;
+    color:white;
+    background-color:#6c60f3;
+    font-size: 15px;;
+    
+    }
+
+    h1
+    {
+        color:#6c60f3 ;
+        font-size: 26px;
+    }
+    h2
+    {
+        color:#6c60f3 ;
+        font-size: 26px;
+        text-align: center;
+    }
+   #sign{
+        color:#6c60f3 ;
+        font-size: 20px;
+        font-weight: bold;
+    }

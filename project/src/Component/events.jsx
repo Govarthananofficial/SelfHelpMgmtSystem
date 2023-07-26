@@ -8,9 +8,9 @@ return(
 <nav>
 <div class="user">
 <div class="head">
-<Link id="head" to="/events/eventslist">Events</Link>
+<Link id="head" to="/dashboard/events/eventslist">Events</Link>
 <div id="Linked">
-<Link id="linked" to="/events/eventsform" >+ Add New Events</Link>
+<Link id="linked" to="/dashboard/events/eventsform" >+ Add New Events</Link>
 </div>
 <Searchbar />
 <Outlet />

@@ -9,9 +9,9 @@ return(
 <nav>
 <div class="user">
 <div class="head">
-<Link id="head"  to="/staff/stafflist">Staff</Link>
+<Link id="head"  to="/dashboard/staff/stafflist">Staff</Link>
 <div id="Linked">
-<Link id="linked" to="/staff/staffform" >+ Add New Staff</Link>
+<Link id="linked" to="/dashboard/staff/staffform" >+ Add New Staff</Link>
 </div>
 <Searchbar />
 <Outlet />
