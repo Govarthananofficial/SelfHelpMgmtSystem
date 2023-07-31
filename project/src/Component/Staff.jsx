@@ -11,7 +11,7 @@ return(
 <div class="head">
 <Link id="head"  to="/dashboard/staff/stafflist">Staff</Link>
 <div id="Linked">
-<Link id="linked" to="/dashboard/staff/staffform" >+ Add New Staff</Link>
+<Link id="linked3" to="/dashboard/staff/staffform" >+ Add New Staff</Link>
 </div>
 <Searchbar />
 <Outlet />

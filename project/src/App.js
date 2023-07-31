@@ -26,6 +26,7 @@ import Memberlist from './Component/Memberlist';
 import MemberForm from './Component/MemberForm';
 import Complaints from './Component/complaints';
 import Signup from './Component/Signup';
+import Home from './Component/Home';
 
 function App() {
   return (
@@ -34,6 +35,7 @@ function App() {
         <Route exact path="/" element={<LoginPage />}></Route>
         <Route path="/signup" element={<Signup />}></Route>
         <Route path="/dashboard" element={<Dashboard/>} >
+        <Route path='home' element={< Home />} />
         <Route path='user' element={< User />} >
         <Route path="userlist" element={< Userlist />}/>
         <Route path="userform" element={<UserForm />}/>

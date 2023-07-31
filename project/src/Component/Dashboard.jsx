@@ -32,44 +32,40 @@ return (
 <ul ><br/><br/>
 
 <li >
-<Link to="/"><FaHome/></Link>
-<h4> Home</h4>
-</li><br/>
-
-<li >
-<Link  to="/dashboard/user"><FaUser/></Link>    
-<h4> User</h4>
+<Link to="/dashboard/home"><FaHome/><h4> Home</h4></Link>
 
 </li><br/>
 
 <li >
-<Link  to="/dashboard/complaints"><FaCommentDots/></Link>
-<h4> Complaints</h4>
+<Link  to="/dashboard/user"><FaUser/> <h4>User</h4></Link>    
 </li><br/>
 
 <li >
-<Link  to="/dashboard/comments"><FaComments/></Link>
-<h4>Comments</h4>
+<Link  to="/dashboard/complaints"><FaCommentDots/> <h4>Complaints</h4></Link>
 </li><br/>
 
 <li >
-<Link  to="/dashboard/staff"><FaUsers/></Link>
-<h4> Staff</h4>
+<Link  to="/dashboard/comments"><FaComments/> <h4>Comments</h4></Link>
+</li><br/>
+
+<li >
+<Link  to="/dashboard/staff"><FaUsers/><h4> Staff</h4></Link>
+
 </li><br/>
 
 <li>
-<Link  to="/dashboard/events"><BsFillCalendarEventFill/></Link>
-<h4> Events</h4>
+<Link  to="/dashboard/events"><BsFillCalendarEventFill/><h4> Events</h4></Link>
+
 </li><br/>
 
 <li >
-<Link  to="/dashboard/loan"><HiCurrencyRupee/></Link>
-<h4> Loan</h4>
+<Link  to="/dashboard/loan"><HiCurrencyRupee/><h4> Loan</h4></Link>
+
 </li><br/>
 
 <li>
-<Link  to="/dashboard/member"><FaUserPlus/></Link>
-<h4> Member</h4>
+<Link  to="/dashboard/member"><FaUserPlus/><h4> Member</h4></Link>
+
 </li>
 </ul>
 </nav>

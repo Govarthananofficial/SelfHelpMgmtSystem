@@ -10,7 +10,7 @@ return(
 <div class="head">
 <Link id="head" to="/dashboard/events/eventslist">Events</Link>
 <div id="Linked">
-<Link id="linked" to="/dashboard/events/eventsform" >+ Add New Events</Link>
+<Link id="linked4" to="/dashboard/events/eventsform" >+ Add New Events</Link>
 </div>
 <Searchbar />
 <Outlet />

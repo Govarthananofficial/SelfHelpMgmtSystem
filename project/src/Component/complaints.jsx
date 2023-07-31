@@ -10,7 +10,7 @@ return(
 <div class="head">
 <Link id="head" to="/dashboard/complaints/complaintslist">Complaints</Link>
 <div id="Linked">
-<Link id="linked" to="/dashboard/complaints/complaintsform" >+ Add New Complaints</Link>
+<Link id="linked1" to="/dashboard/complaints/complaintsform" >+ Add New Complaints</Link>
 </div>
 <Searchbar/>
 <Outlet />

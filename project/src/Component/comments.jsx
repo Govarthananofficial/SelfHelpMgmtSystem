@@ -9,7 +9,7 @@ return(
 <div class="head">
 <Link id="head" to="/dashboard/comments/commentslist">Comment</Link>
 <div id="Linked">
-<Link id="linked" to="/dashboard/comments/commentsform">+ Add New Comment</Link>
+<Link id="linked2" to="/dashboard/comments/commentsform">+ Add New Comment</Link>
 </div>
 <Searchbar />
 <Outlet />

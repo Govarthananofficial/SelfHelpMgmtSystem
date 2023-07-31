@@ -9,7 +9,7 @@ return(
 <div class="head">
 <Link id="head" to="/dashboard/member/memberlist">Member</Link>
 <div id="Linked">
-<Link id="linked" to="/dashboard/member/memberform" >+ Add New Member</Link>
+<Link id="linked6" to="/dashboard/member/memberform" >+ Add New Member</Link>
 </div>
 <Searchbar/>
 <Outlet />
