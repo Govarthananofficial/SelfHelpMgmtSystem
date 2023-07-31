@@ -10,7 +10,7 @@ const LoginPage =()=>
     const handleSubmit=(e)=>
     {
 e.preventDefault();
-if(Username === "Rajeswari"  && Password === "rajeammu")
+if(Username === "Admin"  && Password === "admin")
 {
     alert("login success")
     navigate('/dashboard')

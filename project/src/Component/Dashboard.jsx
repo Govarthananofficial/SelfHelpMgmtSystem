@@ -15,7 +15,7 @@ import { FaUserPlus } from 'react-icons/fa';
 import { BsJustify } from 'react-icons/bs';
 
 function Dashboard() {
-    const [navCollapse,setNavCollapse] = useState(false);
+    
 
 return (
     <>
@@ -23,10 +23,10 @@ return (
  <div class="header">
 <div id="header">
 <SiPassport/>System Portal  
-<BsJustify onClick={e=>setNavCollapse(!navCollapse)} />
+<BsJustify />
 </div>
 </div>
-<div class={`sidebar ${navCollapse? "navCollapse" : ""}`}>
+<div class="sidebar">
 <nav>
     
 <ul ><br/><br/>
