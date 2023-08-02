@@ -6,26 +6,20 @@
    }
 .container
 {
-    width:100%;
+    width:1920px;
     height:100%;
-    border:1px solid white;
+    border:1px solid rgb(0, 0, 0);
     
    
 }
-.dash{
-    width:1000px;
-    height:575px;
-    border:1px solid black;
-    margin-top: -620px;
-    margin-left: 260px;
-}
+
 li{
     margin:5px;
     margin-left: 20px;
 }
 .header
 {
-    width:1355px;
+    width:1920px;
     height:20px;
     border:1px solid #6c60f3;
     background-color: #6c60f3;
@@ -929,8 +923,7 @@ h4{
     color: white;
 }
 .sidebar  li:hover{
-background-color: black;
-color: black;
+background-color: #6559f0;
 cursor: pointer;
 }
 @media screen and (min-width:768px) {
