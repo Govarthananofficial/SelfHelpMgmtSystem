@@ -1,6 +1,6 @@
 import React from "react";
 import {  Link, Outlet } from 'react-router-dom';
-import Searchbar from "./Searchbar";
+import './Member.css';
 function Member()
 {
 return(
@@ -11,7 +11,6 @@ return(
 <div id="Linked">
 <Link id="linked6" to="/dashboard/member/memberform" >+ Add New Member</Link>
 </div>
-<Searchbar/>
 <Outlet />
 </div>
 </div>

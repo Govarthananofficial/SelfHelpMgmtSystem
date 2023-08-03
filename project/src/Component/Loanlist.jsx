@@ -3,6 +3,7 @@ const Loanlist=()=>
 {
     return(
 <div class="loanlist">
+<h2 id="first">Loan</h2><br></br>
     <p>
         Applicant Name:{""}
         {localStorage.getItem("ApplicantName")

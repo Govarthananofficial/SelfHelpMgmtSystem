@@ -36,6 +36,7 @@ function StaffForm()
   }
     return(
         <div id="form">
+          <h2 id="new3">New Staff</h2><br></br>
             <div class="name">
             <label>Name*</label>
             <input type="text" id="Name" onChange = {(e) => setName(e.target.value)} placeholder="Enter name"/>
@@ -60,7 +61,7 @@ function StaffForm()
             <label>Introduction*</label>
             <textarea type="text" id="Introduction" onChange = {(e) => setIntroduction(e.target.value)} placeholder="Enter introduction"/>
             </div>
-            <button onClick={()=>handleSubmit()} type="submit" id="bt">Submit</button>
+            <button onClick={()=>handleSubmit()} type="submit" id="btn2">Submit</button>
         </div>
     );
 

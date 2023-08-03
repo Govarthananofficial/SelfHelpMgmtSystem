@@ -1,0 +1,144 @@
+#linked4
+{
+    width:200px;
+    height:20px;
+    margin-left:800px;
+   margin-top:-10px;
+   float:left;
+   border-radius:6px;
+   background-color: #f9860c;
+   font-weight: bold;
+   text-align: center;
+   padding:10px;
+  border:1px solid #f9860c;
+   color:white;
+    
+
+}
+#new4
+{
+    width:440px;
+    height:40px;
+margin-top: -11px;
+margin-left:-10px;
+background-color: #f9860c;
+color:white
+}
+#btn3
+{
+    width:300px;
+    height:30px;
+    background-color: #f9860c;
+    border:1px solid #f9860c;
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+    font-size: 15px;
+    margin-left:70px;
+    margin-top:2px;
+}.event
+{
+    width:968px;
+    height:449px;
+    border:1px solid rgb(15, 13, 13);
+    margin-top:-452px;  
+    margin-left:212px;  
+}
+.eventslist{
+    width: 350px;
+    height:280px;
+    font-size: 17px;
+    margin-left: 250px;
+    margin-top:140px;
+    padding-left:50px;
+    padding-top:50px;
+    background-color:  rgb(232, 235, 235);
+    color:#666869;
+}
+.Headline
+{
+    color:#666869;
+}
+#Headline
+{
+    width:250px;
+    height:25px;
+    margin-left: 30px;
+    color:#666869;
+}
+.Title
+{
+    color:#666869;
+}
+#Title
+{
+    width:245px;
+    height:25px;
+    margin-left: 65px;
+    color:#666869;
+}
+.Message
+{
+    color:#666869;
+}
+#Message
+{
+    width:245px;
+    height:25px;
+    margin-left: 35px;
+    color:#666869;
+}
+.Venue
+{
+    color:#666869;
+}
+#Venue
+{
+    width:245px;
+    height:25px;
+    margin-left: 55px;
+    color:#666869;
+}
+
+#Date
+{
+    width:247px;
+    height:25px;
+    margin-left: 65px;
+    color:#666869;
+}
+.Date
+{
+    color:#666869; 
+}
+.Content
+{
+    color:#666869;
+}
+#Content
+{
+    width:245px;
+    height:65px;
+    margin-left: 107px;
+    margin-top: -10px;
+    color:#666869;
+}
+#Form
+{
+    width:420px;
+    height:450px;
+    background-color:  rgb(232, 235, 235);
+margin-left:250px;
+    margin-top:100px;
+    padding:10px;
+    box-shadow: 0 7px 15px 0 rgba(0, 0, 0, .13), 0 1px 4px 0 rgba(0, 0, 0, .11);
+}
+#first4
+{
+    width:400px;
+    height:40px;
+margin-top:-50px;
+margin-left:-50px;
+background-color: #f9860c;
+color:white
+}

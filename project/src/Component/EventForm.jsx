@@ -40,6 +40,7 @@ function EventForm()
 
     return(
         <div id="Form">
+          <h2 id="new4">New Events</h2><br></br>
             <div class="Headline">
             <label>Headline* </label>
             <input type="text" id="Headline"  onChange = {(e) => setHeadline(e.target.value)} placeholder="Enter name"/>
@@ -64,7 +65,7 @@ function EventForm()
                 <label>Date* </label>
             <input type="date" id="Date" onChange = {(e) => setDate(e.target.value)}  />
             </div><br/>
-            <button onClick={()=>handleSubmit()} type="submit" id="bt">Submit</button>
+            <button onClick={()=>handleSubmit()} type="submit" id="btn3">Submit</button>
         </div>
     );
 

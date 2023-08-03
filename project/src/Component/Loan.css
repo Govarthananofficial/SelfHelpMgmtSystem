@@ -1,0 +1,242 @@
+#linked5
+{
+    width:200px;
+    height:20px;
+    margin-left:800px;
+   margin-top:-10px;
+   float:left;
+   border-radius:6px;
+   background-color: #f9860c;
+   font-weight: bold;
+   text-align: center;
+   padding:10px;
+  border:1px solid #f9860c;
+   color:white;
+    
+
+}
+.loan{
+    width:968px;
+    height:449px;
+    border:1px solid rgb(15, 13, 13);
+    margin-top:-452px;  
+    margin-left:212px;  
+}
+#new5
+{
+    width:460px;
+    height:40px;
+margin-top: -11px;
+margin-left:-10px;
+background-color: #f9860c;
+color:white
+}
+#Applicant
+{
+    width:245px;
+    height:25px;
+    margin-left: 35px;
+    color:#666869;
+}
+.applicant
+{
+    color:#666869;
+}
+.identification
+{
+    color:#666869;
+}
+.address
+{
+    color:#666869;
+}
+.street
+{
+    color:#666869;
+}
+.House
+{
+    color:#666869;
+}
+.marrital
+{
+    color:#666869;
+}
+#Identifications
+
+{
+    width:250px;
+    height:25px;
+    margin-left: 30px;
+    color:#666869;
+}
+
+#Street
+{
+    width:245px;
+    height:25px;
+    margin-left:105px;
+    color:#666869;
+}
+#House
+{
+    width:255px;
+    height:32px;
+    margin-left:100px;
+    color:#666869;
+}
+#Marritalstatus
+{
+    width:255px;
+    height:32px;
+    margin-left:42px;
+    
+    color:#666869;
+}
+#MarritalStatus
+{
+    width:255px;
+    height:32px;
+    margin-left:20px;
+    
+    color:#666869;
+}
+.loantype
+{
+    color:#666869; 
+   
+
+}
+#loantype
+{
+    margin:10px;
+    color:#666869;
+
+}
+#Loantype
+{
+    width:300px;
+    height:30px;
+    margin-left:140px;
+    margin-top:-25px;
+}
+#SecurityDetails
+{
+    width:300px;
+    height:30px;
+    margin-left:145px;
+    margin-top:-25px;
+}
+#Approval
+{
+    width:300px;
+    height:30px;
+    margin-left:145px;
+    margin-top:-25px;
+}
+#Loanstatus
+{
+    width:300px;
+    height:30px;
+    margin-left:145px;
+    margin-top:-20px;
+}
+#PaymentPeriod
+{
+    width:300px;
+    height:30px;
+    margin-left:145px;
+    margin-top:-25px;
+}
+.security
+{
+    color:#666869; 
+}
+#security
+{
+    margin:5px;
+    color:#666869;
+}
+.approval
+{
+    color:#666869; 
+}
+#approval
+{
+    margin:5px;
+    color:#666869;
+}
+.loanstatus
+
+{
+    color:#666869; 
+}
+#loanstatus
+{
+    margin:5px;
+    color:#666869;
+}
+.paymentperiod
+
+{
+    color:#666869; 
+}
+#paymentperiod
+{
+    margin:5px;
+    color:#666869;
+}
+#Dates
+{
+    width:250px;
+    height:28px;
+    margin-left:110px;
+    color:#666869;
+    
+}
+.date1
+{
+    color:#666869;
+}
+#Btn
+{
+    width:300px;
+    height:30px;
+    background-color: #f9860c;
+    border:1px solid #f9860c;
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+    font-size: 15px;
+    margin-left:70px;
+}
+.loanlist{
+    width: 350px;
+    height:540px;
+    font-size: 17px;
+    margin-left: 250px;
+    margin-top:90px;
+    padding-left:50px;
+    padding-top:50px;
+    background-color:  rgb(232, 235, 235);
+    color:#666869;
+}
+.Form
+{
+    width:440px;
+    height:680px;
+    background-color:  rgb(232, 235, 235);
+    box-shadow: 0 7px 15px 0 rgba(0, 0, 0, .13), 0 1px 4px 0 rgba(0, 0, 0, .11);
+    margin-left:250px;
+    margin-top:100px;
+    padding:10px;
+}
+#first5
+{
+    width:400px;
+    height:40px;
+margin-top:-50px;
+margin-left:-50px;
+background-color: #f9860c;
+color:white
+}

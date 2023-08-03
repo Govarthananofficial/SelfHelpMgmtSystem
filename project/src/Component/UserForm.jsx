@@ -41,6 +41,7 @@ const handleSubmit=(e)=>
 return(
 <div class="form">
 <div>
+  <h2 id="new">New User</h2><br></br>
 <div class="username">
 <label>First Name* </label>
 <input type="text" id="FirstName" onChange = {(e) => setFirstname(e.target.value)}  placeholder="First Name"/>

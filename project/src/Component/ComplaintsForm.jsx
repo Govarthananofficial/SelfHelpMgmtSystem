@@ -29,6 +29,7 @@ function ComplaintsForm()
 
     return(
         <div class="form">
+          <h2 id="new1">New Complaints</h2><br></br>
             <div class="headline">
             <label>Headline*</label>
             <input type="text" id="headline"   onChange = {(e) => setHeadline(e.target.value)} placeholder="Enter Headline"/>

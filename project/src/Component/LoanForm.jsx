@@ -70,6 +70,7 @@ function LoanForm()
     
     return(
         <div class="Form">
+          <h2 id="new5">New Loan</h2><br></br>
             <div class="applicant">
             <label>Applicant Name*</label>
             <input type="text" id="Applicant"  onChange = {(e) => setApplicant(e.target.value)} placeholder="Enter name"/>
@@ -121,9 +122,9 @@ function LoanForm()
             <div class="approval">
                 <label>Approval *</label>
                 <div id="Approval" onChange = {(e) => setApproval(e.target.value)}>
-                <input type="radio" id="approval" name="money" value="$10000" defaultChecked={LoanType==="$10000"} />$10000
-                <input type="radio" id="approval"  name="money" value="$20000" defaultChecked={LoanType==="$20000"}/>$20000
-                <input type="radio" id="approval" name="money"  value="$25000" defaultChecked={LoanType==="$25000"}/>$25000
+                <input type="radio" id="approval" name="money" value="$10000" defaultChecked={LoanType==="$10000"} />10000
+                <input type="radio" id="approval"  name="money" value="$20000" defaultChecked={LoanType==="$20000"}/>20000
+                <input type="radio" id="approval" name="money"  value="$25000" defaultChecked={LoanType==="$25000"}/>25000
                 </div>
             </div><br></br>
             <div class="loanstatus">
@@ -141,7 +142,7 @@ function LoanForm()
                 <input type="radio" id="paymentperiod" name="loans" value="2 year" defaultChecked={LoanType==="2 year"}/>2 year
                 </div>
             </div><br></br>
-<div class="dat">
+<div class="date1">
 <label>Date* </label>
 <input id="Dates" type="date" onChange = {(e) => setDate(e.target.value)}/>
 </div> <br></br>

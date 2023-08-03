@@ -1,0 +1,133 @@
+#linked3
+{
+    width:200px;
+    height:20px;
+    margin-left:800px;
+   margin-top:-10px;
+   float:left;
+   border-radius:6px;
+   background-color: #f9860c;
+   font-weight: bold;
+   text-align: center;
+   padding:10px;
+  border:1px solid #f9860c;
+   color:white;
+    
+
+}
+.staff{
+    width:968px;
+    height:449px;
+    border:1px solid rgb(15, 13, 13);
+    margin-top:-452px;  
+    margin-left:212px; 
+}
+#new3
+{
+    width:440px;
+    height:40px;
+margin-top: -11px;
+margin-left:-10px;
+background-color: #f9860c;
+color:white
+}
+.name
+{
+    color:#666869;
+}
+#Position
+{
+    width:250px;
+    height:25px;
+    margin-left: 65px;
+    color:#666869;
+    
+}
+.position
+{
+    color:#666869;
+}
+#DateJoin
+{
+    width:250px;
+    height:25px;
+    margin-left: 58px;
+    color:#666869;
+    
+}
+.datejoin
+{
+    color:#666869;
+}
+#Statuss
+{
+    width:250px;
+    height:33px;
+    margin-left: 79px;
+    color:#666869;
+    
+}
+.statuss
+{
+    color:#666869;
+}
+#Introduction
+{
+    width:245px;
+    height:65px;
+    margin-left: 129px;
+    margin-top: -20px;
+    color:#666869;
+    
+    
+}
+.introduction
+{
+    color:#666869;
+    
+}
+#btn2
+{
+    width:300px;
+    height:30px;
+    margin-left:70px;
+   margin-top:10px;
+   float:left;
+   border-radius:6px;
+   background-color: #f9860c;
+   font-weight: bold;
+   text-align: center;
+   padding:10px;
+  border:1px solid #f9860c;
+   color:white;
+}
+.stafflist{
+    width: 350px;
+    height:250px;
+    font-size: 17px;
+    margin-left: 250px;
+    margin-top:140px;
+    padding-left:50px;
+    padding-top:50px;
+    background-color:  rgb(232, 235, 235);
+    color:#666869;
+}
+#form
+{
+    width:420px;
+    height:380px;
+    background-color:  rgb(232, 235, 235);
+margin-left:250px;
+    margin-top:100px;
+    padding:10px;
+    box-shadow: 0 7px 15px 0 rgba(0, 0, 0, .13), 0 1px 4px 0 rgba(0, 0, 0, .11);
+}
+#first3
+{
+    width:400px;
+    height:40px;
+margin-top:-50px;
+margin-left:-50px;
+background-color: #f9860c;
+color:white
+}

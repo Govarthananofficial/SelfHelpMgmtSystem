@@ -1,6 +1,6 @@
 import React from "react";
 import {  Outlet,Link } from 'react-router-dom';
-import Searchbar from "./Searchbar";
+import './User.css';
 function User()
 {
     
@@ -12,7 +12,6 @@ return(
 <div id="Linked">
 <Link id="link" to="/dashboard/user/userform" >+ Add New User</Link>
 </div>
-<Searchbar/>
 <Outlet />
 </div>
 </div>

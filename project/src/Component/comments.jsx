@@ -1,6 +1,6 @@
 import React from "react";
 import {  Link, Outlet } from 'react-router-dom';
-import Searchbar from "./Searchbar";
+import './Comments.css';
 function Comments()
 {
 return(
@@ -11,7 +11,6 @@ return(
 <div id="Linked">
 <Link id="linked2" to="/dashboard/comments/commentsform">+ Add New Comment</Link>
 </div>
-<Searchbar />
 <Outlet />
 </div>
 </div>

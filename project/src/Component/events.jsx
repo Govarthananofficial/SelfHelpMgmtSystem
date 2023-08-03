@@ -1,6 +1,6 @@
 import React from "react";
 import {  Link, Outlet } from 'react-router-dom';
-import Searchbar from "./Searchbar";
+import './Events.css';
 function Event()
 {
     
@@ -12,7 +12,7 @@ return(
 <div id="Linked">
 <Link id="linked4" to="/dashboard/events/eventsform" >+ Add New Events</Link>
 </div>
-<Searchbar />
+
 <Outlet />
 </div>
 

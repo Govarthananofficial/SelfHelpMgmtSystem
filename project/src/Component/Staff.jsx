@@ -1,7 +1,6 @@
 import React from "react";
 import {  Link, Outlet } from 'react-router-dom';
-
-import Searchbar from "./Searchbar";
+import './Staff.css';
 function Staff()
 {
 
@@ -13,7 +12,6 @@ return(
 <div id="Linked">
 <Link id="linked3" to="/dashboard/staff/staffform" >+ Add New Staff</Link>
 </div>
-<Searchbar />
 <Outlet />
 </div>
 </div>

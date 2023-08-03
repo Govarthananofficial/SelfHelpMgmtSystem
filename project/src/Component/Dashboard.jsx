@@ -1,6 +1,5 @@
-import React, { useState } from 'react';
+import React  from 'react';
 import { Link, Outlet } from 'react-router-dom';
-
 import './Dashboard.css';                 
 
 import { SiPassport } from 'react-icons/si';
@@ -12,7 +11,7 @@ import { FaUsers } from 'react-icons/fa'
 import { BsFillCalendarEventFill } from 'react-icons/bs';
 import { HiCurrencyRupee } from 'react-icons/hi';
 import { FaUserPlus } from 'react-icons/fa';
-import { BsJustify } from 'react-icons/bs';
+
 
 function Dashboard() {
     
@@ -23,7 +22,7 @@ return (
  <div class="header">
 <div id="header">
 <SiPassport/>System Portal  
-<BsJustify />
+
 </div>
 </div>
 <div class="sidebar">
@@ -63,8 +62,8 @@ return (
 
 </li><br/>
 
-<li>
-<Link  to="/dashboard/member"><FaUserPlus/><h4> Member</h4></Link>
+<li >
+<Link id="plus" to="/dashboard/member"><FaUserPlus/><h4> Member</h4></Link>
 
 </li>
 </ul>

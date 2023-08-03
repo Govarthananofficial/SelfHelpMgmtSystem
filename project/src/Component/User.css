@@ -1,0 +1,177 @@
+.user{
+    
+
+    margin-top:-520px;  
+    margin-left:212px; 
+}
+.head{
+    width:100%;
+    height:75px;
+    background-color: #d4d0f8;
+    border:1px solid #d4d0f8;
+    margin-left: -2px;
+    margin-top: 10px;
+}
+#new
+{
+    width:440px;
+    height:40px;
+margin-top: -11px;
+margin-left:-10px;
+background-color: #f9860c;
+color:white
+}
+#first
+{
+    width:400px;
+    height:40px;
+margin-top:-50px;
+margin-left:-50px;
+background-color: #f9860c;
+color:white
+}
+#head
+{
+width:100px;
+    height:20px;
+    margin-left:30px;
+   margin-top:16px;
+   float:left;
+   border-radius:6px;
+   background-color: #f9860c;
+   font-weight: bold;
+   text-align: center;
+   padding:10px;
+  border:1px solid #f9860c;
+   color:white;
+   
+}
+#link
+{
+    width:200px;
+    height:20px;
+    margin-left:800px;
+   margin-top:-10px;
+   float:left;
+   border-radius:6px;
+   background-color: #f9860c;
+   font-weight: bold;
+   text-align: center;
+   padding:10px;
+  border:1px solid #f9860c;
+   color:white;
+   
+
+    
+
+}
+#linked
+{
+    width:167px;
+    height:42px;
+    border-radius:6px;
+    background-color: #f9860c;
+    font-weight: bold;
+    text-align: center;
+    padding:10px;
+    margin-left: 300px;
+
+    color:white;
+    
+
+}
+.userlist{
+    width: 350px;
+    height:280px;
+    font-size: 17px;
+    margin-left: 250px;
+    margin-top:140px;
+    padding-left:50px;
+    padding-top:50px;
+    background-color:  rgb(232, 235, 235);
+    color:#666869;
+}
+.form
+{
+    width:420px;
+    height:340px;
+    background-color:  rgb(232, 235, 235);
+    margin-left:250px;
+    margin-top:120px;
+    padding:10px;
+    box-shadow: 0 7px 15px 0 rgba(0, 0, 0, .13), 0 1px 4px 0 rgba(0, 0, 0, .11);
+}
+.btn
+{
+    width:300px;
+    height:30px;
+    background-color: #f9860c;
+    border:1px solid #f9860c;
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+    font-size: 15px;
+    margin-left:70px;
+}
+.username
+{
+    color:#666869;
+    font-size: 17px;
+}
+#FirstName
+{
+    width:250px;
+    height:25px;
+    margin-left: 55px;
+    color:#666869;
+    
+}
+.lastname
+{
+    color:#666869;
+    font-size: 17px;
+}
+#LastName
+{
+    width:250px;
+    height:25px;
+    margin-left: 55px;
+    color:#666869;
+}
+.email
+{
+    color:#666869;
+    font-size: 17px;
+}
+#Email
+{
+    width:250px;
+    height:25px;
+    margin-left: 95px;
+    color:#666869;
+}
+.password
+{
+    color:#666869;
+    font-size: 17px;
+}
+#Password
+{
+    width:250px;
+    height:25px;
+    margin-left: 65px;
+    color:#666869;
+    
+}
+.confirm-password
+{
+    color:#666869;
+    font-size: 17px;
+}
+#ConfirmPassword
+{
+    width:250px;
+    height:25px;
+    color:#666869;
+    
+}

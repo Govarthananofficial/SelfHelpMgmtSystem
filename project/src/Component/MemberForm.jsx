@@ -56,6 +56,7 @@ function MemberForm()
   }
     return(
         <div class="from">
+          <h2 id="new6">New Member</h2><br></br>
             <div class="Name"> 
             <label>Name*</label>
                 <input type="text" id="Name" onChange = {(e) => setName(e.target.value)}  placeholder="Enter name"/>
@@ -64,7 +65,7 @@ function MemberForm()
                 <label>Identification*</label> 
                 <input type="text" id="Identifications" onChange = {(e) => setIdentification(e.target.value)}  placeholder="Enter identification"/>
             </div><br/>
-            <div class="da">
+            <div class="date4">
                 <label>Date*</label> 
                 <input type="date" id="date" onChange = {(e) => setDate(e.target.value)}  placeholder="Enter date"/>
             </div><br/>
@@ -99,7 +100,7 @@ function MemberForm()
                 <label>Datejoin*</label> 
                 <input type="date" onChange = {(e) => setDatejoin(e.target.value)}  id="Datejoin" />
             </div><br/>
-            <button onClick={()=>handleSubmit()} type="submit" id="Btnn">Submit</button>
+            <button onClick={()=>handleSubmit()} type="submit" id="Btn4">Submit</button>
 
         </div>
     );

@@ -1,0 +1,81 @@
+#linked2
+{
+    width:200px;
+    height:20px;
+    margin-left:800px;
+   margin-top:-10px;
+   float:left;
+   border-radius:6px;
+   background-color: #f9860c;
+   font-weight: bold;
+   text-align: center;
+   padding:10px;
+  border:1px solid #f9860c;
+   color:white;
+    
+
+}
+#new2
+{
+    width:440px;
+    height:40px;
+margin-top: -11px;
+margin-left:-10px;
+background-color: #f9860c;
+color:white
+}
+#first2
+{
+    width:400px;
+    height:40px;
+margin-top:-50px;
+margin-left:-50px;
+background-color: #f9860c;
+color:white
+}
+#btn1
+{
+    width:300px;
+    height:30px;
+    background-color: #f9860c;
+    border:1px solid #f9860c;
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+    font-size: 15px;
+    margin-left:70px;
+    margin-top:70px;
+}
+
+
+.comments{
+    width:968px;
+    height:449px;
+    border:1px solid rgb(15, 13, 13);
+    margin-top:-452px;  
+    margin-left:212px; 
+}
+.Comment
+{
+    color:#666869;
+    margin-top: 30px;  
+}
+#Comment
+{
+ width:285px;
+        height:145px;
+        margin-left: 100px;
+        margin-top: -20px;
+        color:#666869;
+}
+.commentslist{
+    width: 350px;
+    height:200px;
+    font-size: 17px;
+    margin-left: 250px;
+    margin-top:140px;
+    padding-left:50px;
+    padding-top:50px;
+    background-color:  rgb(232, 235, 235);
+    color:#666869;
+}

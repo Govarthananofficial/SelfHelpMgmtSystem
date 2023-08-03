@@ -1,9 +1,9 @@
 import React from "react";
 import {  Link, Outlet } from 'react-router-dom';
-import Searchbar from "./Searchbar";
+
+import './Loan.css';
 function Loan()
 {
-    
 return(
 <nav>
 <div class="user">
@@ -12,7 +12,7 @@ return(
 <div id="Linked">
 <Link id="linked5" to="/dashboard/loan/loanform" >+ Add New Loan</Link>
 </div>
-<Searchbar />
+
 <Outlet />
 </div>
 </div>
