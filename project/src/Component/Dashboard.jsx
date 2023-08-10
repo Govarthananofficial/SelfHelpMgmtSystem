@@ -28,41 +28,42 @@ return (
 <div class="sidebar">
 <nav>
     
-<ul ><br/><br/>
+<ul ><br/>
 
 <li >
 <Link to="/dashboard/home"><FaHome/><h4> Home</h4></Link>
 
-</li><br/>
+</li><br/><br/>
 
 <li >
 <Link  to="/dashboard/user"><FaUser/> <h4>User</h4></Link>    
-</li><br/>
+</li><br/><br/>
 
 <li >
 <Link  to="/dashboard/complaints"><FaCommentDots/> <h4>Complaints</h4></Link>
-</li><br/>
+</li><br/><br/>
 
 <li >
 <Link  to="/dashboard/comments"><FaComments/> <h4>Comments</h4></Link>
-</li><br/>
+</li><br/><br/>
 
 <li >
 <Link  to="/dashboard/staff"><FaUsers/><h4> Staff</h4></Link>
 
-</li><br/>
+</li><br/><br/>
 
 <li>
 <Link  to="/dashboard/events"><BsFillCalendarEventFill/><h4> Events</h4></Link>
 
-</li><br/>
+</li><br/><br/>
 
 <li >
 <Link  to="/dashboard/loan"><HiCurrencyRupee/><h4> Loan</h4></Link>
 
-</li><br/>
+</li><br/><br/>
 
 <li >
+    
 <Link id="plus" to="/dashboard/member"><FaUserPlus/><h4> Member</h4></Link>
 
 </li>
