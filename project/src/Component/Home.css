@@ -1,0 +1,109 @@
+.home
+{
+    width:1000px;
+    height:550px;
+   
+    margin-top: -650px;
+    margin-left: 300px;
+    
+   
+}
+#home1
+{
+    width:200px;
+    height:200px;
+  
+    float: left;
+    margin:20px;
+    font-size:35px;
+    text-align: center;
+    background-color:#d19512;
+    box-shadow: 0 7px 15px 0 rgba(0, 0, 0, .13), 0 1px 4px 0 rgba(0, 0, 0, .11);
+    color:white
+}
+#home2
+{
+    width:200px;
+    height:200px;
+ 
+    float: left;
+    margin:20px; 
+    font-size:35px;
+    text-align: center;
+    font-size:35px;
+    text-align: center;
+    background-color:#21cf0a;
+    box-shadow: 0 7px 15px 0 rgba(0, 0, 0, .13), 0 1px 4px 0 rgba(0, 0, 0, .11);
+    color: white;
+}
+#home3
+{
+    width:200px;
+    height:200px;
+   
+    float: left;
+    margin:20px;
+    font-size:35px;
+    text-align: center;
+    background-color:#0db1da;
+    box-shadow: 0 7px 15px 0 rgba(0, 0, 0, .13), 0 1px 4px 0 rgba(0, 0, 0, .11);
+    color: white;
+}
+#home4
+{
+    width:200px;
+    height:200px;
+     
+    float: left;
+    margin:20px;
+    font-size:35px;
+    text-align: center;
+    background-color: #e9e64d;
+    box-shadow: 0 7px 15px 0 rgba(0, 0, 0, .13), 0 1px 4px 0 rgba(0, 0, 0, .11);
+    color: white;
+  
+}
+#home5
+{
+    width:220px;
+    height:200px;
+   
+    float: left;
+    margin:40px;
+    font-size:35px;
+    text-align: center;
+    background-color:#e023f1;
+    box-shadow: 0 7px 15px 0 rgba(0, 0, 0, .13), 0 1px 4px 0 rgba(0, 0, 0, .11);
+    color: white;
+}
+#home6
+{
+    width:220px;
+    height:200px;
+  
+    float: left;
+    margin:40px;
+    font-size:35px;
+    text-align: center;
+    background-color:#894fe7;
+    box-shadow: 0 7px 15px 0 rgba(0, 0, 0, .13), 0 1px 4px 0 rgba(0, 0, 0, .11);
+    color: white;
+}
+#home7
+{
+    width:220px;
+    height:200px;
+   
+    float: left; 
+    margin:40px;
+    font-size:35px;
+    text-align: center; 
+    background-color:#eb4848;
+    box-shadow: 0 7px 15px 0 rgba(26, 21, 21, 0.13), 0 1px 4px 0 rgba(19, 9, 9, 0.11);
+    color: white;
+}
+#user1
+{
+    Font-size: 116px; 
+   color: white;
+}
